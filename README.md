@@ -26,6 +26,23 @@ Tailgating can be defined as the act of driving on a road too close to the vehic
 ### Source code of the Project
 The source code of this project can be access [here](https://github.com/marcushwz/capstone-project/blob/master/capstone.py)
 
+### Schematic Diagram of the System
+
+![schematic-diagram](schematic-capstone.png)
+
+### Getting the system to work
+
+Calibration
+Connect all the hardware together and installed it on the real cars
+
+
+### Some videos recorded during the test runs
+
+
+### Conclusion
+
+
+
 
 
 
