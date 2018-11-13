@@ -32,14 +32,35 @@ The source code of this project can be access [here](https://github.com/marcushw
 
 ### Getting the system to work
 
-Calibration
-Connect all the hardware together and installed it on the real cars
+1. Before putting the LIDAR-Lite 3 sensor onto the real car, calibration of the sensor is done.
+#### Calibration of LIDAR-Lite v3
+![calibration](calibration.png)
+
+2. After the distance sensor had been calibrated, all the hardware were set up as shown in the schematic diagram above. Below are a few pictures showing the setup of the system before going for a test run.
+
+#### LIDAR-Lite Sensor mounted at the back of the car
+![lidar-sensor](lidar-sensor.png)
+
+#### User Interface of Sensoduino (to measure the speed of the car)
+![sensoduino](sensoduino.png)
+
+#### Warning Sign at the Rear Dashboard
+![warning-sign](warning-sign.png)
 
 
-### Some videos recorded during the test runs
+### Results
+After everthing was set up following the schematic diagram, a few test runs had been done.
+
+Here are a few videos showing the actual footage of the test runs:
+1. In [this](https://www.youtube.com/watch?v=BXmaUCFwb60) video, the white car tend to stick very closely behind even at the corner.
+2. In this [second](https://www.youtube.com/watch?v=jU64lMRZt8g) video, the black car was seem to react to the warning sign but slowing down its speed significantly.
+3. The picture below shows one excel file containing the interested data of a certain test run. 
+![data](data.png)
+4. After getting the video footage and also the interested data, more analysis could be done such as studying the driving behavior of the drivers.
 
 
 ### Conclusion
+In this project, our team was able to come out with a working prototype demonstrating the anti-tailgating system with video recording and data logging function. However, everything we had done here was for academic purposes, and there are a lot of improvements that could be done!
 
 
 
