@@ -1,4 +1,4 @@
-# Capstone Project
+# Capstone Project (Mechanical Study)
 
 This project was done under the course Integrated Project Design in my third year together with 3 of my group mates. 
 
